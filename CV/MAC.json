@@ -1,0 +1,452 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Daniel",
+      "surnames": "Hernández Marín",
+      "title": "Software Developer",
+      "description": "Software developer since 2009 | Clean Code enthusiastic | AI research newcomer | Concerned with Social Impact and Ethics of AI\n\nI began my career in 2009 working as a software developer in an NGO. I have created management tools, mainly for International Cooperation projects. Between 2013 and 2016 I spent less time in technology and I mainly dedicated my efforts to carrying out El Hueco project, a space for the promotion of social entrepreneurship in the small town of Soria.\nWith this project settled and growing, I decided to return to the software industry completely, joining an e-tourism start-up in which, in addition to work as a software developer, I played a fundamental role introducing good practices in the team: clean code and clean architecture, patterns, refactoring, testing, etc.\nI’ve begun a new stage in a large consultant company since November 2019 where I have the opportunity to lead the e-commerce development team of the largest online perfumery in Spain. In this project we have worked on refactoring, re-architecting the legacy system to improve its robustness and reliability and to reduce its technical debt.\nMoreover, since 2018 until today, I’ve researched about AI, Measurement of Social Impact and SDGs guided by Ángeles Manjarrés and Marta Solórzano, who were my directors in the Master's in Advanced Artificial Intelligence at the National University of Distance Education (Spain). ",
+      "avatar": {
+        "alt": "daniel.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/d359f49a-0e18-41fb-b6f0-656f4f492e20_daniel.jpeg"
+      },
+      "location": {
+        "notes": "Soria, Spain"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/danielhernandezmarin/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/dhernandez"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Music",
+        "fact": "I'm a guitar player and a trombone learner"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Hiberus",
+          "image": {
+            "alt": "1439_prescreenlogo.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/77a47e1f-ce28-49b2-976b-18b6d9bb7b9f_1439_prescreenlogo.jpg"
+          },
+          "URL": "https://prescreen.io"
+        },
+        "roles": [
+          {
+            "name": "Software developer",
+            "startDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": "Support for stateless adaptation (migration to cloud):\n- Demanding quality refactoring and development\n- Guide and support Hiberus team assigned to the project\n- Code reviews\n- International team"
+              }
+            ],
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "S3",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "El Hueco",
+          "image": {
+            "alt": "new-logo-light1.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/8c98d571-70d1-4997-ae16-0d0e48d0ea83_new-logo-light1.png"
+          },
+          "URL": "https://www.elhueco.org"
+        },
+        "roles": [
+          {
+            "name": "Coordinator",
+            "startDate": "2012-04-01",
+            "finishDate": "2016-09-01",
+            "challenges": [
+              {
+                "description": "Co-funder, coordinator. Social innovation and social entrepreneur projects"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ONGD Cives Mundi",
+          "image": {
+            "alt": "logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/8e9547df-1c97-4442-969d-beaf624db8d1_logo.png"
+          },
+          "URL": "https://www.civesmundi.es"
+        },
+        "roles": [
+          {
+            "name": "Sotware developer",
+            "startDate": "2009-11-01",
+            "finishDate": "2016-09-01",
+            "challenges": [
+              {
+                "description": "Management tools development, mainly for International Cooperation projects"
+              }
+            ],
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Hiberus",
+          "image": {
+            "alt": "douglas_logo.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/85274b13-7bb4-4452-898a-f3cd6513c4a2_douglas_logo.svg"
+          },
+          "URL": "https://douglas.es"
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2019-11-01",
+            "finishDate": "2021-12-01",
+            "challenges": [
+              {
+                "description": "Douglas Spain ecommerce:\n- Tech leading\n- Introduce best practices: Code review, testing, SOLID principles and code quality, etc\n- Refactoring and re-architecting to bear heavy load (Black Friday, Christmas campaign...) and to improve code maintenability\n- DevOps: Write pipelines for CI/CD, create docker-based local environment, new dev and staging environments\n- Internal team training and talks\n- New features development"
+              }
+            ],
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Netytec",
+          "image": {
+            "alt": "logo-1.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/b0629a1f-01f9-405b-87f3-522402783a35_logo-1.jpg"
+          },
+          "URL": "https://poraltur.com"
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2016-12-01",
+            "finishDate": "2019-11-01",
+            "challenges": [
+              {
+                "description": "Poraltur Project\n\n- Introduce best practices\n- Refactoring \n- New features and services development\n- Proofs of concept and technologies research\n- Work on MVP"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
+                "name": "CouchDB",
+                "type": "technology"
+              },
+              {
+                "name": "ECS",
+                "type": "technology"
+              },
+              {
+                "name": "BlueTooth",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "SIAMES",
+          "description": "Artificial Intelligence for measuring your social impact.",
+          "URL": "https://siames.social",
+          "image": {
+            "alt": "Captura de pantalla de 2022-03-27 18-39-41.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/bf568980-cc2b-4c0a-b69a-99ad45abc5d7_captura-de-pantalla-.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2018-01-01"
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "SIAMES: Social Impact Advisor and Measurement System",
+          "description": "",
+          "URL": "https://ieeexplore.ieee.org/document/9379041",
+          "image": {
+            "alt": "Captura de pantalla de 2022-03-27 18-39-41.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/b378f37e-8adf-4653-abf7-c20a094dbefc_captura-de-pantalla-.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2021-03-01",
+        "tags": [
+          "AI research"
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "IT technical engineering",
+        "startDate": "2008-09-01",
+        "finishDate": "2012-09-01",
+        "institution": {
+          "name": "UNED",
+          "description": "Ingeniero Técnico en informática de Gestión",
+          "image": {
+            "alt": "Logo-UNED-verde.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/0822e11a-cdcf-4e29-8501-d9c047c7b58e_logo-uned-verde.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master in Advanced Artificial Intelligence",
+        "startDate": "2016-09-01",
+        "finishDate": "2020-09-01",
+        "institution": {
+          "name": "UNED",
+          "description": "",
+          "image": {
+            "alt": "Logo-UNED-verde.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/4df76aa2-47b3-4d0f-8c8f-54377b3f8a80_logo-uned-verde.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Expert in Social Innovation and Entrepreneurship",
+        "startDate": "2012-09-01",
+        "finishDate": "2013-06-01",
+        "institution": {
+          "name": "UNED",
+          "description": "",
+          "image": {
+            "alt": "Logo-UNED-verde.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/6484b52a-1fcf-468b-a193-f104064e2e98_logo-uned-verde.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Social entrepreneurial initiative",
+        "startDate": "2013-01-01",
+        "finishDate": "2009-12-01",
+        "institution": {
+          "name": "IESE Business School",
+          "description": "",
+          "image": {
+            "alt": "photo.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/40c05c41-a5c8-489f-a03a-4be75226f6ae_photo.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Big Data in a nutshell",
+        "startDate": "2018-05-01",
+        "finishDate": "2018-05-01",
+        "institution": {
+          "name": "UVA",
+          "description": "20h course\n\nHadoop | HDFS y MapReduce | Hive y Tez | Spark\n| Kafka | Tableau",
+          "image": {
+            "alt": "uva.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/9c98bf7d-6c13-4bf3-a903-c95248e7994e_uva.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Hadoop",
+            "type": "technology"
+          },
+          {
+            "name": "HDFS",
+            "type": "technology"
+          },
+          {
+            "name": "Hive",
+            "type": "technology"
+          },
+          {
+            "name": "Spark",
+            "type": "technology"
+          },
+          {
+            "name": "Kafka",
+            "type": "technology"
+          },
+          {
+            "name": "Tableau",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "AWS Essentials (unofficial)",
+        "startDate": "2018-11-01",
+        "finishDate": "2018-11-01",
+        "institution": {
+          "name": "UVA",
+          "description": "Same contents as AWS Essentials. 20h\n\nAmazon Elastic Compute Cloud (EC2 | Amazon\nVirtual Private Cloud (VPC) | Amazon Simple\nStorage Service (S3) | Amazon Elastic Block Store\n(EBS) | Amazon DynamoDB | Amazon Relational\nDatabase Service (RDS) | AWS Auto Scaling |\nAmazon CloudWatch | Elastic Load Balancing\n(ELB) | AWS Trusted Advisor",
+          "image": {
+            "alt": "uva.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/ec6e4765-e78f-4846-8323-f9e460534c20_uva.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Kubernetes",
+        "startDate": "2020-11-01",
+        "finishDate": "2016-11-01",
+        "institution": {
+          "name": "Hiberus",
+          "description": "Introduction to Kubernetes",
+          "image": {
+            "alt": "LOGO-HIBERUS.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/9df296f4-fa26-41fc-9d87-a006b679e343_logo-hiberus.png"
+          }
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/danielhernandezmarin/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "Go",
+          "type": "technology"
+        },
+        {
+          "name": "Rust",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
