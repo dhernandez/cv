@@ -30,8 +30,12 @@
     ],
     "interestingFacts": [
       {
-        "topic": "Music",
-        "fact": "I'm a guitar player and a trombone learner"
+        "topic": "History 🏺",
+        "fact": "From 2022 student of the History and Artistic Heritage online degree at University of Burgos"
+      },
+      {
+        "topic": "Music 🎵",
+        "fact": "I'm a guitar player 🎸 and a trombone learner (no emoji for trombone, disappointing)"
       }
     ]
   },
@@ -149,6 +153,10 @@
                 "type": "technology"
               },
               {
+                "name": "AWS ECS",
+                "type": "technology"
+              },
+              {
                 "name": "Android",
                 "type": "technology"
               },
@@ -158,10 +166,6 @@
               },
               {
                 "name": "CouchDB",
-                "type": "technology"
-              },
-              {
-                "name": "ECS",
                 "type": "technology"
               },
               {
