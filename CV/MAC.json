@@ -37,20 +37,6 @@
         "topic": "Music 🎵",
         "fact": "I'm a guitar player 🎸 and a trombone learner (no emoji for trombone, disappointing)"
       }
-    ],
-    "recommendations": [
-      {
-        "title": "Rigor talks by Carlos Buenosvinos (spanish)",
-        "type": "other",
-        "URL": "https://www.youtube.com/playlist?list=PLfgj7DYkKH3Cd8bdu5SIHGYXh_bPV2idP",
-        "authors": [
-          {
-            "name": "Carlos",
-            "surnames": "Buenosvinos",
-            "title": "Author"
-          }
-        ]
-      }
     ]
   },
   "experience": {
