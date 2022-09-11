@@ -15,7 +15,9 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/d359f49a-0e18-41fb-b6f0-656f4f492e20_daniel.jpeg"
       },
       "location": {
-        "notes": "Soria, Spain"
+        "country": "España",
+        "region": "Castilla y León",
+        "municipality": "Soria"
       }
     },
     "relevantLinks": [
@@ -293,12 +295,6 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "PHP",
           "type": "technology"
         }
@@ -311,13 +307,13 @@
       },
       {
         "skill": {
-          "name": "Docker",
+          "name": "Python",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "RabbitMQ",
+          "name": "Pandas",
           "type": "technology"
         }
       },
@@ -335,13 +331,19 @@
       },
       {
         "skill": {
-          "name": "GitLab",
+          "name": "RabbitMQ",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Pandas",
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
           "type": "technology"
         }
       }
