@@ -248,7 +248,7 @@
     "projects": [
       {
         "details": {
-          "name": "SIAMES",
+          "name": "SIAMES: Social Impact Advisor and Measurement System",
           "description": "Artificial Intelligence for measuring your social impact.",
           "URL": "https://siames.social",
           "image": {
@@ -512,6 +512,11 @@
           "name": "Rust",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Data Engineer",
+        "Tech Lead"
       ]
     }
   }
