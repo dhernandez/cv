@@ -27,8 +27,8 @@
         "URL": "https://github.com/dhernandez"
       },
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/danielhernandezmarin/"
+        "type": "other",
+        "URL": "https://gitlab.com/d.hernandez"
       }
     ],
     "interestingFacts": [
@@ -489,14 +489,6 @@
     ]
   },
   "careerPreferences": {
-    "contact": {
-      "publicProfiles": [
-        {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/danielhernandezmarin/"
-        }
-      ]
-    },
     "preferences": {
       "preferredCompetences": [
         {
