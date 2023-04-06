@@ -248,7 +248,7 @@
     "projects": [
       {
         "details": {
-          "name": "Estoraje",
+          "name": "Estoraje: Distributed key-value store",
           "description": "Estoraje is the simplest distributed system for key-value storage in less than 800 lines of code. It is temporary consistent, high available, lightweight, scalable and gives a good performance.",
           "URL": "https://github.com/satur-io/estoraje",
           "image": {
