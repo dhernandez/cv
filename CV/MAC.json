@@ -11,25 +11,16 @@
       "title": "Software Developer",
       "description": "Software developer since 2009 | Clean Code enthusiastic | AI research newcomer | Concerned with Social Impact and Ethics of AI\n\nI began my career in 2009 working as a software developer in an NGO. I have created management tools, mainly for International Cooperation projects. Between 2013 and 2016 I spent less time in technology and I mainly dedicated my efforts to carrying out El Hueco project, a space for the promotion of social entrepreneurship in the small town of Soria.\n\nWith this project settled and growing, I decided to return to the software industry completely, joining an e-tourism start-up in which, in addition to working as a software developer, I played a fundamental role introducing good practices in the team: clean code and clean architecture, patterns, refactoring, testing, etc.\nI’ve begun a new stage in a large consultant company since November 2019 where I have the opportunity to lead the e-commerce development team of the largest online perfumery in Spain. In this project we have worked on refactoring and re-architecting the legacy system to improve its robustness and reliability and to reduce its technical debt. Also in the same company, Hiberus, I joined a new project at the beginning of 2022 and I am currently working on migrating prescreen.io application to the cloud with a highest-quality-standards international team.\n\nMoreover, from 2018 until today, I’ve researched about AI, Measurement of Social Impact and SDGs guided by Ángeles Manjarrés and Marta Solórzano, who were my directors in the Master's in Advanced Artificial Intelligence at the National University of Distance Education (Spain). ",
       "avatar": {
-        "alt": "daniel.jpeg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/d359f49a-0e18-41fb-b6f0-656f4f492e20_daniel.jpeg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/d359f49a-0e18-41fb-b6f0-656f4f492e20_daniel.jpeg",
+        "alt": "daniel.jpeg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ1yC7dtLSRA0RpeQup6XsdYs)",
         "country": "España",
         "region": "Castilla y León",
         "municipality": "Soria"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/dhernandez"
-      },
-      {
-        "type": "other",
-        "URL": "https://gitlab.com/d.hernandez"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "History 🏺",
@@ -39,6 +30,13 @@
         "topic": "Music 🎵",
         "fact": "I'm a guitar player 🎸 and a trombone learner (no emoji for trombone, disappointing)"
       }
+    ],
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://gitlab.com/d.hernandez",
+        "description": "GitLab"
+      }
     ]
   },
   "experience": {
@@ -47,8 +45,8 @@
         "organization": {
           "name": "Hiberus",
           "image": {
-            "alt": "Logo-navi—onlyfy.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/31/1fa13384-b321-4278-85d1-0f2605afb1d5_logo-navionlyfy.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/31/1fa13384-b321-4278-85d1-0f2605afb1d5_logo-navionlyfy.svg",
+            "alt": "Logo-navi—onlyfy.svg"
           },
           "URL": "https://onlyfy.com"
         },
@@ -58,7 +56,7 @@
             "startDate": "2022-01-01",
             "challenges": [
               {
-                "description": "Working to the client NEW WORK SE as an employee of the Hiberus company. Focus on onlyfy.com (formerly prescreen) application into a highest-quality-standards international team.\n\nonlyfy is part of XING group and it used by more than 3000 companies, mainly large and medium-sized Central European companies, for their recruitment process.\n\n*Support for migration to cloud environment*\n- Demanding quality refactoring and development\n- Guide and support Hiberus team assigned to the project\n\n*Domain change*\n- Define and execute, with the rest of the team, a strategy to migrate all the domains of the application due to a full rebranch. Zero downtime required.\n"
+                "description": "Working in the client NEW WORK SE. Focus on onlyfy.com (formerly prescreen) in a highest-quality-standards international team.\n\nonlyfy by XING has more than 3000 customers. Our tool supports large and medium-sized Central European companies on their recruitment processes."
               }
             ],
             "competences": [
@@ -98,8 +96,8 @@
         "organization": {
           "name": "Hiberus",
           "image": {
-            "alt": "douglas_logo.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/85274b13-7bb4-4452-898a-f3cd6513c4a2_douglas_logo.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/85274b13-7bb4-4452-898a-f3cd6513c4a2_douglas_logo.svg",
+            "alt": "douglas_logo.svg"
           },
           "URL": "https://douglas.es"
         },
@@ -134,8 +132,8 @@
         "organization": {
           "name": "Netytec",
           "image": {
-            "alt": "logo-1.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/b0629a1f-01f9-405b-87f3-522402783a35_logo-1.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/b0629a1f-01f9-405b-87f3-522402783a35_logo-1.jpg",
+            "alt": "logo-1.jpg"
           },
           "URL": "https://poraltur.com"
         },
@@ -194,8 +192,8 @@
         "organization": {
           "name": "El Hueco",
           "image": {
-            "alt": "new-logo-light1.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/8c98d571-70d1-4997-ae16-0d0e48d0ea83_new-logo-light1.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/8c98d571-70d1-4997-ae16-0d0e48d0ea83_new-logo-light1.png",
+            "alt": "new-logo-light1.png"
           },
           "URL": "https://www.elhueco.org"
         },
@@ -216,8 +214,8 @@
         "organization": {
           "name": "ONGD Cives Mundi",
           "image": {
-            "alt": "logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/8e9547df-1c97-4442-969d-beaf624db8d1_logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/8e9547df-1c97-4442-969d-beaf624db8d1_logo.png",
+            "alt": "logo.png"
           },
           "URL": "https://www.civesmundi.es"
         },
@@ -252,8 +250,8 @@
           "description": "Estoraje is the simplest distributed system for key-value storage in less than 800 lines of code. It is temporary consistent, high available, lightweight, scalable and gives a good performance.",
           "URL": "https://github.com/satur-io/estoraje",
           "image": {
-            "alt": "estoraje_ring.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/06/0ddfee31-a78c-4d47-919c-ef8de3e14f3e_estoraje_ring.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/06/0ddfee31-a78c-4d47-919c-ef8de3e14f3e_estoraje_ring.svg",
+            "alt": "estoraje_ring.svg"
           }
         },
         "type": "sideProject",
@@ -276,8 +274,8 @@
           "description": "Artificial Intelligence for measuring your social impact.",
           "URL": "https://siames.social",
           "image": {
-            "alt": "Captura de pantalla de 2022-03-27 18-39-41.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/bf568980-cc2b-4c0a-b69a-99ad45abc5d7_captura-de-pantalla-.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/bf568980-cc2b-4c0a-b69a-99ad45abc5d7_captura-de-pantalla-.png",
+            "alt": "Captura de pantalla de 2022-03-27 18-39-41.png"
           }
         },
         "type": "sideProject",
@@ -295,8 +293,8 @@
           "name": "SIAMES: Social Impact Advisor and Measurement System",
           "URL": "https://ieeexplore.ieee.org/document/9379041",
           "image": {
-            "alt": "Captura de pantalla de 2022-03-27 18-39-41.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/b378f37e-8adf-4653-abf7-c20a094dbefc_captura-de-pantalla-.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/b378f37e-8adf-4653-abf7-c20a094dbefc_captura-de-pantalla-.png",
+            "alt": "Captura de pantalla de 2022-03-27 18-39-41.png"
           }
         },
         "type": "post",
@@ -310,55 +308,15 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "EN",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Symfony",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Pandas",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Redis",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "RabbitMQ",
-          "type": "technology"
-        }
-      },
       {
         "skill": {
           "name": "Docker",
@@ -370,38 +328,65 @@
           "name": "GitLab",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pandas",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RabbitMQ",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redis",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Symfony",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
-        "name": "Kubernetes",
-        "startDate": "2020-11-01",
-        "finishDate": "2016-11-01",
-        "institution": {
-          "name": "Hiberus",
-          "description": "Introduction to Kubernetes",
-          "image": {
-            "alt": "LOGO-HIBERUS.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/9df296f4-fa26-41fc-9d87-a006b679e343_logo-hiberus.png"
-          }
-        }
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
         "name": "AWS Essentials (unofficial)",
         "startDate": "2018-11-01",
-        "finishDate": "2018-11-01",
         "institution": {
           "name": "UVA",
           "description": "Same contents as AWS Essentials. 20h\n\nAmazon Elastic Compute Cloud (EC2 | Amazon\nVirtual Private Cloud (VPC) | Amazon Simple\nStorage Service (S3) | Amazon Elastic Block Store\n(EBS) | Amazon DynamoDB | Amazon Relational\nDatabase Service (RDS) | AWS Auto Scaling |\nAmazon CloudWatch | Elastic Load Balancing\n(ELB) | AWS Trusted Advisor",
           "image": {
-            "alt": "uva.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/ec6e4765-e78f-4846-8323-f9e460534c20_uva.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/ec6e4765-e78f-4846-8323-f9e460534c20_uva.png",
+            "alt": "uva.png"
           }
         },
+        "finishDate": "2018-11-01",
         "linkedCompetences": [
           {
             "name": "AWS",
@@ -414,15 +399,15 @@
         "degreeAchieved": true,
         "name": "Big Data in a nutshell",
         "startDate": "2018-05-01",
-        "finishDate": "2018-05-01",
         "institution": {
           "name": "UVA",
           "description": "20h course\n\nHadoop | HDFS y MapReduce | Hive y Tez | Spark\n| Kafka | Tableau",
           "image": {
-            "alt": "uva.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/9c98bf7d-6c13-4bf3-a903-c95248e7994e_uva.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/9c98bf7d-6c13-4bf3-a903-c95248e7994e_uva.png",
+            "alt": "uva.png"
           }
         },
+        "finishDate": "2018-05-01",
         "linkedCompetences": [
           {
             "name": "HDFS",
@@ -451,65 +436,117 @@
         ]
       },
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Master in Advanced Artificial Intelligence",
-        "startDate": "2016-09-01",
-        "finishDate": "2020-09-01",
-        "institution": {
-          "name": "UNED",
-          "image": {
-            "alt": "Logo-UNED-verde.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/4df76aa2-47b3-4d0f-8c8f-54377b3f8a80_logo-uned-verde.jpg"
-          }
-        }
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Social entrepreneurial initiative",
-        "startDate": "2013-01-01",
-        "finishDate": "2009-12-01",
-        "institution": {
-          "name": "IESE Business School",
-          "image": {
-            "alt": "photo.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/40c05c41-a5c8-489f-a03a-4be75226f6ae_photo.jpg"
-          }
-        }
-      },
-      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Expert in Social Innovation and Entrepreneurship",
         "startDate": "2012-09-01",
-        "finishDate": "2013-06-01",
         "institution": {
           "name": "UNED",
           "image": {
-            "alt": "Logo-UNED-verde.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/6484b52a-1fcf-468b-a193-f104064e2e98_logo-uned-verde.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/6484b52a-1fcf-468b-a193-f104064e2e98_logo-uned-verde.jpg",
+            "alt": "Logo-UNED-verde.jpg"
           }
-        }
+        },
+        "finishDate": "2013-06-01"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "IT technical engineering",
         "startDate": "2008-09-01",
-        "finishDate": "2012-09-01",
         "institution": {
           "name": "UNED",
           "description": "Ingeniero Técnico en informática de Gestión",
           "image": {
-            "alt": "Logo-UNED-verde.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/0822e11a-cdcf-4e29-8501-d9c047c7b58e_logo-uned-verde.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/0822e11a-cdcf-4e29-8501-d9c047c7b58e_logo-uned-verde.jpg",
+            "alt": "Logo-UNED-verde.jpg"
           }
+        },
+        "finishDate": "2012-09-01"
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Kubernetes",
+        "startDate": "2020-11-01",
+        "institution": {
+          "name": "Hiberus",
+          "description": "Introduction to Kubernetes",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/9df296f4-fa26-41fc-9d87-a006b679e343_logo-hiberus.png",
+            "alt": "LOGO-HIBERUS.png"
+          }
+        },
+        "finishDate": "2016-11-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master in Advanced Artificial Intelligence",
+        "startDate": "2016-09-01",
+        "institution": {
+          "name": "UNED",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/4df76aa2-47b3-4d0f-8c8f-54377b3f8a80_logo-uned-verde.jpg",
+            "alt": "Logo-UNED-verde.jpg"
+          }
+        },
+        "finishDate": "2020-09-01"
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Social entrepreneurial initiative",
+        "startDate": "2013-01-01",
+        "institution": {
+          "name": "IESE Business School",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/40c05c41-a5c8-489f-a03a-4be75226f6ae_photo.jpg",
+            "alt": "photo.jpg"
+          }
+        },
+        "finishDate": "2009-12-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Capacity for abstract thinking",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Good written communication",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Team player",
+          "type": "practice"
         }
       }
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://github.com/dhernandez",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "icor7days@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "679544579",
+          "countryCode": "+34"
+        }
+      ]
+    },
     "preferences": {
       "preferredCompetences": [
         {
@@ -534,6 +571,19 @@
         "Data Engineer",
         "Tech Lead"
       ]
-    }
+    },
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "I would like in a job related to data process and ideally with social impact. I really. I would love to be able to have a four-day WorkWeek.",
+    "goodPractices": "I work trying to apply best development practices such as the Clean Code principles, patterns or code reviews. Also, I have had to introduce some of these practices in work teams. Finally, I have implemented some basic CI/CD systems and I usually work in teams that apply CI/CD.",
+    "projects": [
+      {
+        "name": "Estoraje: Distributed key-value store"
+      },
+      {
+        "name": "SIAMES: Social Impact Advisor and Measurement System"
+      }
+    ]
   }
 }
