@@ -551,7 +551,7 @@
   },
   "manfredSpecificData": {
     "desiredJobDescription": "I would like in a job related to data process and ideally with social impact. I really. I would love to be able to have a four-day WorkWeek.",
-    "goodPractices": "I work trying to apply best development practices such as the Clean Code principles, patterns or code reviews. Also, I have had to introduce some of these practices in work teams. Finally, I have implemented some basic CI/CD systems and I usually work in teams that apply CI/CD.",
+    "goodPractices": "I always try to apply the best development practices. Clean Code principles, patterns, pairing and code reviews are my daily life. Also, I have implemented basic CI/CD and DevOps .",
     "projects": [
       {
         "name": "SIAMES: Social Impact Advisor and Measurement System"
