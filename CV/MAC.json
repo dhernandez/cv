@@ -9,7 +9,7 @@
       "name": "Daniel",
       "surnames": "Hernández Marín",
       "title": "Software Developer",
-      "description": "Software developer since 2009 | Clean Code enthusiastic | AI research newcomer | Concerned with Social Impact and Ethics of AI\n\nI began my career in 2009 working as a software developer in an NGO. I have created management tools, mainly for International Cooperation projects. Between 2013 and 2016 I spent less time in technology and I mainly dedicated my efforts to carrying out El Hueco project, a space for the promotion of social entrepreneurship in the small town of Soria.\n\nWith this project settled and growing, I decided to return to the software industry completely, joining an e-tourism start-up in which, in addition to working as a software developer, I played a fundamental role introducing good practices in the team: clean code and clean architecture, patterns, refactoring, testing, etc.\nI’ve begun a new stage in a large consultant company since November 2019 where I have the opportunity to lead the e-commerce development team of the largest online perfumery in Spain. In this project we have worked on refactoring and re-architecting the legacy system to improve its robustness and reliability and to reduce its technical debt. Also in the same company, Hiberus, I joined a new project at the beginning of 2022 and I am currently working on migrating prescreen.io application to the cloud with a highest-quality-standards international team.\n\nMoreover, from 2018 until today, I’ve researched about AI, Measurement of Social Impact and SDGs guided by Ángeles Manjarrés and Marta Solórzano, who were my directors in the Master's in Advanced Artificial Intelligence at the National University of Distance Education (Spain). ",
+      "description": "Software developer since 2009 | Clean Code enthusiastic | AI research newcomer | Concerned with Social Impact and Ethics of AI\n\nI began my career in 2009 as a software developer in an NGO. In my first stage I engineered management tools from scratch to support International Cooperation projects. However, from 2013 to 2016 I spent less time in software and focused on carrying out El Hueco: an space for promoting social entrepreneurship in the small town of Soria.\nWith this project settled and growing, I decided to return to the software industry full-time, joining an e-tourism start-up in which, in addition to working as a software developer, I played a key role introducing good practices in the team: clean code and clean architecture, patterns, refactoring, testing, etc. After that, I began a new stage in a large consultant company where I had the opportunity to lead the e-commerce development team of the largest online perfumery in Spain. In this project we worked on refactoring and re-architecting the legacy system to improve its robustness and reliability and to reduce its technical debt. Next, I joined an international project at the beginning of 2022. I am currently working at onlyfy by Xing in a highest-quality-standards international team.\nMoreover, from 2018 until today, I have researched about AI, Measurement of Social Impact and SDGs guided by Ángeles Manjarrés and Marta Solórzano, who were my directors in the Master's in Advanced Artificial Intelligence at the National University of Distance Education (Spain).",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/d359f49a-0e18-41fb-b6f0-656f4f492e20_daniel.jpeg",
         "alt": "daniel.jpeg"
@@ -34,8 +34,7 @@
     "relevantLinks": [
       {
         "type": "other",
-        "URL": "https://gitlab.com/d.hernandez",
-        "description": "GitLab"
+        "URL": "https://gitlab.com/d.hernandez"
       }
     ]
   },
