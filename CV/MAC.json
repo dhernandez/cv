@@ -246,30 +246,6 @@
     "projects": [
       {
         "details": {
-          "name": "Estoraje: Distributed key-value store",
-          "description": "Estoraje is the simplest distributed system for key-value storage in less than 800 lines of code. It is temporary consistent, high available, lightweight, scalable and gives a good performance.",
-          "URL": "https://github.com/satur-io/estoraje",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/06/0ddfee31-a78c-4d47-919c-ef8de3e14f3e_estoraje_ring.svg",
-            "alt": "estoraje_ring.svg"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2023-03-01",
-            "competences": [
-              {
-                "name": "Go",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "SIAMES: Social Impact Advisor and Measurement System",
           "description": "Artificial Intelligence for measuring your social impact.",
           "URL": "https://siames.social",
@@ -578,9 +554,6 @@
     "desiredJobDescription": "I would like in a job related to data process and ideally with social impact. I really. I would love to be able to have a four-day WorkWeek.",
     "goodPractices": "I work trying to apply best development practices such as the Clean Code principles, patterns or code reviews. Also, I have had to introduce some of these practices in work teams. Finally, I have implemented some basic CI/CD systems and I usually work in teams that apply CI/CD.",
     "projects": [
-      {
-        "name": "Estoraje: Distributed key-value store"
-      },
       {
         "name": "SIAMES: Social Impact Advisor and Measurement System"
       }
