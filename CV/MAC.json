@@ -120,6 +120,10 @@
                 "type": "technology"
               },
               {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
                 "name": "Symfony",
                 "type": "technology"
               }
