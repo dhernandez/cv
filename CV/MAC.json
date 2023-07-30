@@ -176,6 +176,10 @@
                 "type": "technology"
               },
               {
+                "name": "Lambda",
+                "type": "technology"
+              },
+              {
                 "name": "PHP",
                 "type": "technology"
               },
