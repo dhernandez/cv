@@ -558,6 +558,10 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "AWS",
+        "type": "technology"
+      },
+      {
         "name": "PHP",
         "type": "technology"
       },
