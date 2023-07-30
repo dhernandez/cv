@@ -64,6 +64,10 @@
                 "type": "technology"
               },
               {
+                "name": "AWS SNS",
+                "type": "technology"
+              },
+              {
                 "name": "Elasticsearch",
                 "type": "technology"
               },
