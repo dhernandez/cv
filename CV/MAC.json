@@ -556,6 +556,16 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "PHP",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "I would like in a job related to data process and ideally with social impact. I really. I would love to be able to have a four-day WorkWeek.",
     "goodPractices": "I always try to apply the best development practices. Clean Code principles, patterns, pairing and code reviews are my daily life. Also, I have implemented basic CI/CD and DevOps .",
     "projects": [
