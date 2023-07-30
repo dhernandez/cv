@@ -531,6 +531,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
           "name": "Go",
           "type": "technology"
         },
@@ -571,6 +575,10 @@
       },
       {
         "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
         "type": "technology"
       }
     ],
