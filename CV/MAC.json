@@ -72,6 +72,10 @@
                 "type": "technology"
               },
               {
+                "name": "Amazon SQS",
+                "type": "technology"
+              },
+              {
                 "name": "Elasticsearch",
                 "type": "technology"
               },
@@ -80,11 +84,11 @@
                 "type": "technology"
               },
               {
-                "name": "PHP",
+                "name": "OpenApi",
                 "type": "technology"
               },
               {
-                "name": "RabbitMQ",
+                "name": "PHP",
                 "type": "technology"
               },
               {
