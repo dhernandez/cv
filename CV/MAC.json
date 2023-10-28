@@ -33,6 +33,10 @@
     ],
     "relevantLinks": [
       {
+        "type": "github",
+        "URL": "https://github.com/dhernandez"
+      },
+      {
         "type": "other",
         "URL": "https://gitlab.com/d.hernandez"
       }
@@ -164,6 +168,10 @@
                 "type": "technology"
               },
               {
+                "name": "AWS Lambda",
+                "type": "technology"
+              },
+              {
                 "name": "Android",
                 "type": "technology"
               },
@@ -173,10 +181,6 @@
               },
               {
                 "name": "CouchDB",
-                "type": "technology"
-              },
-              {
-                "name": "Lambda",
                 "type": "technology"
               },
               {
