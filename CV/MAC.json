@@ -76,6 +76,14 @@
                 "type": "technology"
               },
               {
+                "name": "Nest",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
                 "name": "PHP",
                 "type": "technology"
               },
@@ -93,6 +101,10 @@
               },
               {
                 "name": "Symfony",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
                 "type": "technology"
               }
             ]
