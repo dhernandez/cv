@@ -410,6 +410,20 @@
         ]
       },
       {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Bachelor's Degree in History and Heritage",
+        "startDate": "2022-09-01",
+        "institution": {
+          "name": "Universidad de Burgos",
+          "description": "El Grado en Historia y Patrimonio de la Universidad de Burgos tiene una vocación generalista, modulada y complementada por el esfuerzo que se realiza para introducir a los estudiantes en el estudio de la Prehistoria y de la Evolución Humana y para ofrecerles, también, una primera aproximación al estudio del Patrimonio.\n\nQuienes lo cursan reflexionan sobre temas apasionantes relativos al origen y la evolución de las sociedades humanas y, al mismo tiempo, se habitúan al trabajo riguroso y aprenden a buscar información, a interpretar y contextualizar lo encontrado y a desarrollar un pensamiento propio y el razonamiento crítico, rasgos de madurez intelectual muy valorados en el ámbito laboral actual.\n\nCon el objetivo de adecuarse a un mundo cada vez más multidisciplinar y de favorecer el aprendizaje contextualizado y comparado, el Grado cuenta con un plan de estudios sugestivo, equilibrado y ajustado a los objetivos que perseguía la reforma para adaptar las enseñanzas universitarias españolas al Espacio Europeo de Educación Superior, que añade materias transversales e instrumentales de Antropología, Historia del Arte, Arqueología, Geografía, Paleografía y Paleontología a las enseñanzas propias de la Historia Antigua, Medieval, Moderna, Contemporánea, de América.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/20/2d9e3660-09d5-47f6-995c-508ee4f470b4_escudo-linea-negro-t.jpg",
+            "alt": "Escudo LINEA NEGRO TC.jpg"
+          }
+        }
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Big Data in a nutshell",
@@ -463,20 +477,6 @@
           }
         },
         "finishDate": "2013-06-01"
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": false,
-        "name": "Grado en Historia y Patrimonio",
-        "startDate": "2022-09-01",
-        "institution": {
-          "name": "Universidad de Burgos",
-          "description": "El Grado en Historia y Patrimonio de la Universidad de Burgos tiene una vocación generalista, modulada y complementada por el esfuerzo que se realiza para introducir a los estudiantes en el estudio de la Prehistoria y de la Evolución Humana y para ofrecerles, también, una primera aproximación al estudio del Patrimonio.\n\nQuienes lo cursan reflexionan sobre temas apasionantes relativos al origen y la evolución de las sociedades humanas y, al mismo tiempo, se habitúan al trabajo riguroso y aprenden a buscar información, a interpretar y contextualizar lo encontrado y a desarrollar un pensamiento propio y el razonamiento crítico, rasgos de madurez intelectual muy valorados en el ámbito laboral actual.\n\nCon el objetivo de adecuarse a un mundo cada vez más multidisciplinar y de favorecer el aprendizaje contextualizado y comparado, el Grado cuenta con un plan de estudios sugestivo, equilibrado y ajustado a los objetivos que perseguía la reforma para adaptar las enseñanzas universitarias españolas al Espacio Europeo de Educación Superior, que añade materias transversales e instrumentales de Antropología, Historia del Arte, Arqueología, Geografía, Paleografía y Paleontología a las enseñanzas propias de la Historia Antigua, Medieval, Moderna, Contemporánea, de América.",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/20/2d9e3660-09d5-47f6-995c-508ee4f470b4_escudo-linea-negro-t.jpg",
-            "alt": "Escudo LINEA NEGRO TC.jpg"
-          }
-        }
       },
       {
         "studyType": "officialDegree",
