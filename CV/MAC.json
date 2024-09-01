@@ -46,6 +46,40 @@
     "jobs": [
       {
         "organization": {
+          "name": "New Work Networking Spain",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/01/aef2209e-e1fc-4e9f-8334-afce316b9d9d_2023-new-work-se-log.png",
+            "alt": "2023-new-work-se-logo-primary-colour-RGB.png"
+          },
+          "URL": "https://new-work.se"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2024-08-01",
+            "competences": [
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Hiberus",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/01/1bbaf0c1-1ef8-4fd6-bd14-afa616854030_marca-universidad-de.png",
