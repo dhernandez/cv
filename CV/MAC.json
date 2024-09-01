@@ -48,6 +48,42 @@
         "organization": {
           "name": "Hiberus",
           "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/01/1bbaf0c1-1ef8-4fd6-bd14-afa616854030_marca-universidad-de.png",
+            "alt": "Marca Universidad de Navarra_200__rojo.png"
+          },
+          "URL": "https://www.unav.edu"
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2024-04-01",
+            "finishDate": "2024-08-01",
+            "challenges": [
+              {
+                "description": "New features and improvements for the UNAV user management tools."
+              }
+            ],
+            "competences": [
+              {
+                "name": "LDAP",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Hiberus",
+          "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/31/1fa13384-b321-4278-85d1-0f2605afb1d5_logo-navionlyfy.svg",
             "alt": "Logo-navi—onlyfy.svg"
           },
