@@ -365,7 +365,8 @@
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2018-01-01"
+            "startDate": "2018-01-01",
+            "finishDate": "2024-08-01"
           }
         ]
       }
