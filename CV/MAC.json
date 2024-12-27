@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.5"
   },
   "aboutMe": {
@@ -616,19 +616,19 @@
     "softSkills": [
       {
         "skill": {
-          "name": "Capacity for abstract thinking",
+          "name": "Capacidad de abstracción",
           "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Good written communication",
+          "name": "Comunicación escrita",
           "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Team player",
+          "name": "Trabajo en equipo",
           "type": "practice"
         }
       }
@@ -641,9 +641,6 @@
           "URL": "https://github.com/dhernandez",
           "type": "github"
         }
-      ],
-      "contactMails": [
-        "icor7days@gmail.com"
       ]
     },
     "preferences": {
