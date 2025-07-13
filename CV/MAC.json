@@ -64,10 +64,6 @@
             ],
             "competences": [
               {
-                "name": "Data Build Tool",
-                "type": "technology"
-              },
-              {
                 "name": "Elasticsearch",
                 "type": "technology"
               },
