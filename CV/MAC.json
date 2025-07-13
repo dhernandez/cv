@@ -353,6 +353,38 @@
     "projects": [
       {
         "details": {
+          "name": "DuckDB API for PHP",
+          "description": "Creator and main maintainer of the DuckDB Client API for PHP.\n\nFocused on performance, it uses the official C API internally through FFI, achieving good benchmarks. This library is more than just a wrapper for the C API; it introduces custom, PHP-friendly methods to simplify working with DuckDB. It is compatible with Linux, Windows, and macOS, requiring PHP version 8.3 or higher.",
+          "URL": "https://github.com/satur-io/duckdb-php",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/07/13/3f130e70-5731-496f-bdb8-28b9b597b71b_duckdb-php-logo-nobo.svg",
+            "alt": "DuckDB-PHP-logo-noborders.svg"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2025-05-01",
+            "competences": [
+              {
+                "name": "C",
+                "type": "technology"
+              },
+              {
+                "name": "DuckDB",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "SIAMES: Social Impact Advisor and Measurement System",
           "description": "Artificial Intelligence for measuring your social impact.",
           "URL": "https://siames.social",
@@ -705,6 +737,9 @@
     "desiredJobDescription": "I would like in a job related to data process and ideally with social impact. I really. I would love to be able to have a four-day WorkWeek.",
     "goodPractices": "I always try to apply the best development practices. Clean Code principles, patterns, pairing and code reviews are my daily life. Also, I have implemented basic CI/CD and DevOps .",
     "projects": [
+      {
+        "name": "DuckDB API for PHP"
+      },
       {
         "name": "SIAMES: Social Impact Advisor and Measurement System"
       }
