@@ -610,21 +610,6 @@
         "finishDate": "2012-09-01"
       },
       {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Kubernetes",
-        "startDate": "2020-11-01",
-        "institution": {
-          "name": "Hiberus",
-          "description": "Introduction to Kubernetes",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/9df296f4-fa26-41fc-9d87-a006b679e343_logo-hiberus.png",
-            "alt": "LOGO-HIBERUS.png"
-          }
-        },
-        "finishDate": "2016-11-01"
-      },
-      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Master in Advanced Artificial Intelligence",
