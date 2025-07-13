@@ -59,10 +59,14 @@
             "startDate": "2024-08-01",
             "challenges": [
               {
-                "description": "Focus on onlyfy.com (formerly prescreen) in a highest-quality-standards international team.\n\nonlyfy by XING has more than 3000 customers. Our tool supports large and medium-sized Central European companies on their recruitment processes."
+                "description": "Focus on onlyfy.com (formerly prescreen) in a highest-quality-standards international team. Our tool supports large and medium-sized Central European companies on their recruitment processes."
               }
             ],
             "competences": [
+              {
+                "name": "Data Build Tool",
+                "type": "technology"
+              },
               {
                 "name": "Elasticsearch",
                 "type": "technology"
@@ -76,7 +80,15 @@
                 "type": "technology"
               },
               {
+                "name": "Snowflake",
+                "type": "technology"
+              },
+              {
                 "name": "Symfony",
+                "type": "technology"
+              },
+              {
+                "name": "dbt",
                 "type": "technology"
               }
             ]
